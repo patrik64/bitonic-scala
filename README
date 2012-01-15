@@ -1,0 +1,19 @@
+bitonic sort (scala version)
+
+to compile and run this application do the following:
+
+- install the scala 2.8 compiler (on ubuntu linux e.g.  sudo apt-get install scala)
+- open a termnial window and navigate to this directory
+- type the following into the command line:
+
+	scalac bitonic.scala 
+
+(if you get compile errors, check your scala compiler version, it should be version 2.8 or newer)
+	
+- once the compilation is over, you can run the application by typing:
+
+	scala bitonic.Bitonic
+
+
+
+
